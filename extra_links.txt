@@ -8,4 +8,4 @@
 -- https://www.sitepoint.com/twelve-javascript-libraries-data-visualization/
 
 4. vivus, bringing your SVGs to life
-https://maxwellito.github.io/vivus/
+-- https://maxwellito.github.io/vivus/
