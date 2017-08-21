@@ -13,7 +13,7 @@
         binary.unshift(remainder);
     }
     return binary.join("")
-};
+  };
 
 ```
 
