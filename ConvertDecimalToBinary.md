@@ -1,3 +1,6 @@
+### Solution in JavaScript:
+****
+
 ``` javascript
   var convertDecimalToBinary = function (decimal) {
     var binaryBase = 2;
