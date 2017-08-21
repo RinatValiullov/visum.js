@@ -19,3 +19,23 @@
 
 ***
 **_Explanation:_**
+
+``` javascript
+
+convertDecimalToBinary(23);
+
+/***
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+***/
+
+```
