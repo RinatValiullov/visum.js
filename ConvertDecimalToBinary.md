@@ -2,6 +2,7 @@
 ****
 
 ``` javascript
+
   var convertDecimalToBinary = function (decimal) {
     var binaryBase = 2;
     var binary = [];
@@ -13,6 +14,8 @@
     }
     return binary.join("")
 };
+
 ```
+
 ***
 _Explanation:_
