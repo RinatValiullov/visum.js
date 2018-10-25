@@ -1,5 +1,5 @@
 ### Solution in JavaScript:
-****
+***
 
 ``` javascript
 
@@ -17,7 +17,7 @@
 
 ```
 
-****
+***
 **_Explanation:_**
 
 ``` javascript
